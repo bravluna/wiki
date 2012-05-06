@@ -10,8 +10,9 @@ h1,h2,h3,h4,h5,h6 {
 }
 .navbar .brand {
     color: #fff;
-    font-size: 24px;
-    padding: 7px 20px 9px;
+    font-size: 26px;
+    padding: 8px 20px 6px;
+    font-family: 'Garamond', 'Georgia', serif;
 }
 .page-header {
     padding-bottom: 4px;
