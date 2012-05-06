@@ -23,7 +23,38 @@
             <div class="page-header">
                 <h1>Index</h1>
             </div>
-            %content%
+            <div class="row">
+                <div class="span6">
+                    <h2>English</h2>
+                    <ul>
+                        <li><a href=""></a></li>
+                    </ul>
+                    <h2>Art</h2>
+                    <ul>
+                        <li><a href=""></a></li>
+                    </ul>
+                    <h2>Geography</h2>
+                    <ul>
+                        <li><a href=""></a></li>
+                    </ul>
+                    <h2>Places</h2>
+                    <ul>
+                        <li><a href=""></a></li>
+                    </ul>
+                </div>
+                <div class="span6">
+                    <h2>Programming</h2>
+                    <ul>
+                        <li><a href="programming_python.html">Python</a></li>
+                        <li><a href="programming_javascript.html">Javascript</a></li>
+                    </ul>
+                    <h2>Tools</h2>
+                    <ul>
+                        <li><a href="tools_git.html">Git</a></li>
+                        <li><a href="tools_vim.html">Vim</a></li>
+                    </ul>
+                </div>
+            </div>
             <div class="page-header">
                 <h1>About</h1>
             </div>
