@@ -1,0 +1,13 @@
+%template index
+
+== English ==
+== Art ==
+== Geography ==
+== Places ==
+
+== Programming ==
+- [[programming_python|Python]]
+- [[programming_javascript|Javascript]]
+== Tools ==
+- [[tools_git|Git]]
+- [[tools_vim|Vim]]
