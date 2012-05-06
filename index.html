@@ -59,7 +59,7 @@
                 <h1>About</h1>
             </div>
             <div>
-                <p>Bravluna 在这儿收集感兴趣的知识，始于2012年5月4日。</p>
+                <p>Bravluna 在这儿收集感兴趣的知识，总结经验，始于2012年5月4日。</p>
             </div>
             <div class="footer">
                 <p>&copy; 2012 Bravluna's wiki system</p>
