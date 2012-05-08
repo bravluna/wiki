@@ -6,8 +6,9 @@
 == Places ==
 
 == Programming ==
-- [[programming_python|Python]]
-- [[programming_javascript|Javascript]]
+- [[programming/python|Python]]
+- [[programming/javascript|Javascript]]
+
 == Tools ==
-- [[tools_git|Git]]
-- [[tools_vim|Vim]]
+- [[tools/git|Git]]
+- [[tools/vim|Vim]]
