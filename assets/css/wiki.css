@@ -1,7 +1,17 @@
 /* B.Wiki style */
 
+body {
+    font-size: 14px;
+}
+body p {
+    font-size: 14px;
+    line-height: 22px;
+}
 h1,h2,h3,h4,h5,h6 {
     font-weight: normal;
+}
+li {
+    line-height: 22px;
 }
 .navbar .container {
     width: 940px;
@@ -24,3 +34,7 @@ h1,h2,h3,h4,h5,h6 {
     padding-left: 10px;
     border-top: 1px dashed #000;
 }
+.footer p {
+    font-size: 13px;
+}
+
