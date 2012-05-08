@@ -58,7 +58,7 @@
             <div class="page-header">
                 <h1>About</h1>
             </div>
-            <div class="ablut">
+            <div class="about">
                 <p>Bravluna 在这儿收集感兴趣的知识，总结经验，始于2012年5月4日。</p>
             </div>
             <div class="footer">
