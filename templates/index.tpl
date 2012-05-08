@@ -45,20 +45,20 @@
                 <div class="span6">
                     <h2>Programming</h2>
                     <ul>
-                        <li><a href="programming_python.html">Python</a></li>
-                        <li><a href="programming_javascript.html">Javascript</a></li>
+                        <li><a href="programming/python.html">Python</a></li>
+                        <li><a href="programming/javascript.html">Javascript</a></li>
                     </ul>
                     <h2>Tools</h2>
                     <ul>
-                        <li><a href="tools_git.html">Git</a></li>
-                        <li><a href="tools_vim.html">Vim</a></li>
+                        <li><a href="tools/git.html">Git</a></li>
+                        <li><a href="tools/vim.html">Vim</a></li>
                     </ul>
                 </div>
             </div>
             <div class="page-header">
                 <h1>About</h1>
             </div>
-            <div>
+            <div class="ablut">
                 <p>Bravluna 在这儿收集感兴趣的知识，总结经验，始于2012年5月4日。</p>
             </div>
             <div class="footer">

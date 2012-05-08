@@ -23,7 +23,9 @@
             <div class="page-header">
                 <h1>%title%</h1>
             </div>
-            %content%
+            <div class="content">
+                %content%
+            </div>
             <div class="footer">
                 <p>&copy; 2012 Bravluna's wiki system</p>
             </div>
