@@ -1,1 +1,7 @@
 %title Python
+
+== Articles ==
+- 
+
+== Tips ==
+- 
