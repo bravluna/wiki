@@ -13,6 +13,14 @@ h1,h2,h3,h4,h5,h6 {
 li {
     line-height: 22px;
 }
+a {
+    color: #9B2D20;
+    text-decoration: underline;
+}
+a:hover {
+    color: #9B2D20;
+    text-decoration: underline;
+}
 .navbar .container {
     width: 940px;
     margin-left: auto;
@@ -22,6 +30,7 @@ li {
     color: #fff;
     font-size: 26px;
     padding: 8px 20px 6px;
+    text-decoration: none;
     font-family: 'Garamond', 'Georgia', serif;
 }
 .page-header {
