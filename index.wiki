@@ -1,14 +1,21 @@
 %template index
 
-== English ==
 == Art ==
-== Geography ==
-== Places ==
+
+== Poems ==
+- [[poems/chinese|Chinese]]
+- [[poems/foreign|Foreign]]
+
+== History ==
+== World ==
 
 == Programming ==
 - [[programming/python|Python]]
-- [[programming/javascript|Javascript]]
+- [[programming/javascript|JavaScript]]
+- [[programming/css|CSS]]
+- [[programming/html|HTML]]
 
 == Tools ==
 - [[tools/git|Git]]
 - [[tools/vim|Vim]]
+- [[tools/approach|Approach]]
