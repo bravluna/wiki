@@ -6,6 +6,7 @@ body {
 body p {
     font-size: 14px;
     line-height: 22px;
+    margin-bottom: 14px;
 }
 h1,h2,h3,h4,h5,h6 {
     font-weight: normal;
@@ -20,6 +21,13 @@ a {
 a:hover {
     color: #9B2D20;
     text-decoration: underline;
+}
+code {
+    border: 0px;
+}
+pre {
+    border: 0px;
+    width: 90%;
 }
 .navbar .container {
     width: 940px;
