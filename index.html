@@ -25,19 +25,20 @@
             </div>
             <div class="row">
                 <div class="span6">
-                    <h2>English</h2>
-                    <ul>
-                        <li><a href=""></a></li>
-                    </ul>
                     <h2>Art</h2>
                     <ul>
                         <li><a href=""></a></li>
                     </ul>
-                    <h2>Geography</h2>
+                    <h2>Poems</h2>
+                    <ul>
+                        <li><a href="poems/chinese.html">Chinese</a></li>
+                        <li><a href="poems/foreign.html">Foreign</a></li>
+                    </ul>
+                    <h2>History</h2>
                     <ul>
                         <li><a href=""></a></li>
                     </ul>
-                    <h2>Places</h2>
+                    <h2>World</h2>
                     <ul>
                         <li><a href=""></a></li>
                     </ul>
@@ -46,12 +47,15 @@
                     <h2>Programming</h2>
                     <ul>
                         <li><a href="programming/python.html">Python</a></li>
-                        <li><a href="programming/javascript.html">Javascript</a></li>
+                        <li><a href="programming/javascript.html">JavaScript</a></li>
+                        <li><a href="programming/css.html">CSS</a></li>
+                        <li><a href="programming/html.html">HTML</a></li>
                     </ul>
                     <h2>Tools</h2>
                     <ul>
                         <li><a href="tools/git.html">Git</a></li>
                         <li><a href="tools/vim.html">Vim</a></li>
+                        <li><a href="tools/approach.html">Approach</a></li>
                     </ul>
                 </div>
             </div>

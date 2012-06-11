@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <link rel="Stylesheet" type="text/css" href="../assets/css/bootstrap.css" />
+        <link rel="Stylesheet" type="text/css" href="../assets/css/wiki.css" />
+        <script type="text/javascript" src="../assets/js/jquery.js"></script>
+        <script type="text/javascript" src="../assets/js/bootstrap.js"></script>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="description" content="Bravluna's wiki system">
+        <meta name="author" content="Bravluna">
+        <title>B.Wiki› 字符实体</title>
+    </head>
+    <body>
+        <div class="navbar">
+            <div class="navbar-inner">
+                <div class="container">
+                    <a class="brand" href="/">B.Wiki</a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="container">
+            <div class="page-header">
+                <h1>字符实体</h1>
+            </div>
+            <div class="content">
+                
+
+<p>
+要在 HTML 文档里插入<code>&lt;</code>符号需要这样写：<code>&amp;lt;</code>，<code>&amp;lt;</code>叫做字符实体。程序员会疑问，为什么不用<code>\&lt;</code>转义来插入字符？字符实体是什么？
+</p>
+
+<p>
+事实上，在 HTML 文档里可以插入 Unicode 字符集中的任意字符，比如要插入<code>♥</code>，可以这样写：<code>&amp;#9829;</code>，中间的４个数字是待插入字符的 Unicode 内码。
+</p>
+
+<p>
+另外，为了便于记忆，可以用名字的形式，用<code>&amp;hearts;</code>来插入<code>♥</code>，HTML 预定义了很多名字，如<code>&amp;lt;</code>代表<code>&lt;</code>。
+</p>
+
+<p>
+通过这种方式可以用多种语言书写 HTML 文档，当然并不需要都写成字符实体的形式，键盘上有的字符直接插入即可。
+</p>
+
+<p>
+HTML 使用<code>&lt; &gt; &amp; </code>来定义标签和插入字符实体，要在文本里使用这些字符不能直接书写。
+</p>
+
+<p>
+但也不需要另外规定转义的形式，写它们的字符实体即可。
+</p>
+
+<p>
+所以在 HTML 文档里字符实体有两个作用：一是插入字符，二是对<code>&lt; &gt; &amp;</code>进行转义。
+</p>
+
+<p>
+[<a href="http://entitycode.com/">http://entitycode.com/</a> 这里]有一个专门介绍字符实体的网站，按类别提供了常用字符实体参考。
+</p>
+
+<p>
+-2012.5.16-
+</p>
+
+            </div>
+            <div class="footer">
+                <p>&copy; 2012 Bravluna's wiki system</p>
+            </div>
+        </div>
+    </body>
+</html>
