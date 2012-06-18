@@ -1,3 +1,11 @@
 %title git clone 做了什么？
 
+`git clone` 用来克隆一个仓库，在本机上或是 git 服务器上，若是本机上的仓库就无须使用 git 或 http 协议，直接 `git clone path` 即可。克隆后，`origin` 即代表被克隆的源仓库，`origin/master` 代表源仓库的 master 分支，本地也产生了一个 master 分支。
 
+可能这条命令让人疑惑，比如：为什么克隆后 working directory 就有文件？为什么用 `git push origin` 就可以直接提交数据？按我的理解，`git clone` 实际是个组合命令，它做了以下几件事情：
+# `git init` 初始化本地仓库
+# `git remote add origin url` 添加源仓库 url，用 origin 指代
+# `git fetch origin` 从源仓库拉取数据，这会把源 .git 目录复制过来
+# `git checkout -b master origin/master` 创建跟踪分支，即 master 跟踪 origin/master，检出数据。“跟踪分支”这里解释下，从源仓库 checkout 出来的本地分支就称为跟踪分支，这也是 `git fetch/pull/push` 能直接工作的原因。
+
+-_2012.5.17_-
