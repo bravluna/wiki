@@ -27,7 +27,7 @@
                 %content%
             </div>
             <div class="footer">
-                <p>&copy; 2012 Bravluna's wiki system</p>
+                <p> &copy; Bravluna's wiki system </p>
             </div>
         </div>
     </body>

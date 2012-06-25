@@ -40,7 +40,7 @@
                     </ul>
                     <h2>World</h2>
                     <ul>
-                        <li><a href=""></a></li>
+                        <li><a href="world/knowledge.html">Knowledge</a></li>
                     </ul>
                 </div>
                 <div class="span6">
@@ -66,7 +66,7 @@
                 <p>Bravluna 在这儿收集感兴趣的知识，总结经验，始于2012年5月4日。</p>
             </div>
             <div class="footer">
-                <p>&copy; 2012 Bravluna's wiki system</p>
+                <p> &copy; Bravluna's wiki system </p>
             </div>
         </div>
     </body>
