@@ -8,6 +8,7 @@
 
 == History ==
 == World ==
+- [[world/knowledge|Knowledge]]
 
 == Programming ==
 - [[programming/python|Python]]
