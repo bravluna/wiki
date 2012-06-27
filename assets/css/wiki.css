@@ -16,7 +16,7 @@ li {
 }
 a {
     color: #9B2D20;
-    text-decoration: underline;
+    text-decoration: none;
 }
 a:hover {
     color: #9B2D20;
