@@ -1,3 +1,4 @@
+%template subject
 %title 中国诗歌
 
 - [[2012_6_11|采桑女]]

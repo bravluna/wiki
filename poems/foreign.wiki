@@ -1,3 +1,4 @@
+%template subject
 %title 外国诗歌
 
 - [[2012_6_18|雨]]

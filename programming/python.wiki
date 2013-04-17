@@ -1,7 +1,8 @@
+%template subject
 %title Python
 
-== Articles ==
+=== Articles ===
 - 
 
-== Tips ==
+=== Tips ===
 - 

@@ -1,4 +1,5 @@
+%template subject
 %title HTML
 
-== Articles ==
+=== Articles ===
 - [[2012_5_16|字符实体]]

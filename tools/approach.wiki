@@ -1,5 +1,6 @@
+%template subject
 %title Approach
 
-== Articles ==
+=== Articles ===
 - [[2012_5_14|知识屏蔽 线索化 多元]]
 - [[2012_5_15|由一本教材想到的]]

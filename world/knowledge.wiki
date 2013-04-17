@@ -1,3 +1,4 @@
+%template subject
 %title Knowledge
 
 - [[2012_6_25|总共有多少个汉字？]]
