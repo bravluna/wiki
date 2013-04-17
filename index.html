@@ -21,37 +21,37 @@
         
         <div class="container">
             <div class="page-header">
-                <h1>Index</h1>
+                <h2>Index</h2>
             </div>
             <div class="row">
                 <div class="span6">
-                    <h2>Art</h2>
+                    <h3>Art</h3>
                     <ul>
                         <li><a href=""></a></li>
                     </ul>
-                    <h2>Poems</h2>
+                    <h3>Poems</h3>
                     <ul>
                         <li><a href="poems/chinese.html">Chinese</a></li>
                         <li><a href="poems/foreign.html">Foreign</a></li>
                     </ul>
-                    <h2>History</h2>
+                    <h3>History</h3>
                     <ul>
                         <li><a href=""></a></li>
                     </ul>
-                    <h2>World</h2>
+                    <h3>World</h3>
                     <ul>
                         <li><a href="world/knowledge.html">Knowledge</a></li>
                     </ul>
                 </div>
                 <div class="span6">
-                    <h2>Programming</h2>
+                    <h3>Programming</h3>
                     <ul>
                         <li><a href="programming/python.html">Python</a></li>
                         <li><a href="programming/javascript.html">JavaScript</a></li>
                         <li><a href="programming/css.html">CSS</a></li>
                         <li><a href="programming/html.html">HTML</a></li>
                     </ul>
-                    <h2>Tools</h2>
+                    <h3>Tools</h3>
                     <ul>
                         <li><a href="tools/git.html">Git</a></li>
                         <li><a href="tools/vim.html">Vim</a></li>
@@ -60,7 +60,7 @@
                 </div>
             </div>
             <div class="page-header">
-                <h1>About</h1>
+                <h2>About</h2>
             </div>
             <div class="about">
                 <p>Bravluna 在这儿收集感兴趣的知识，总结经验，始于2012年5月4日。</p>
